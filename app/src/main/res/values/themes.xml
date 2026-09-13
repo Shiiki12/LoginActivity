@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginActivity" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="android:statusBarColor">#3701B4</item>
+    </style>
+
+    <style name="Theme.LoginActivity" parent="Base.Theme.LoginActivity" />
+</resources>
